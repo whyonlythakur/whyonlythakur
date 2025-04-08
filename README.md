@@ -1,26 +1,33 @@
 <!-- Main Heading  -->
 
-# WAZEIR
+# Arpit Singh (Thakur)
 
 <!-- Intro -->
 
-**`Digital Craftsman (Developer/Content Creator/ Gamer)`**
+**`👨‍💻 Tech Enthusiast | 🌍 Avid Explorer | 🎯 Multi-Domain Professional | 🛠️ Skilled in IT & Development | 🌟 Passionate Learner`**
 
-Hey there! I'm a curious individual with a strong desire to explore as much as I can, 
-whether it's related to my profession or the world around me.
+I'm a curious individual with a strong desire to explore as much as I can, whether it's related to my profession or the world around me.
 
-All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code, 
-Gaming & Travelling is my side hobby, Loves Spending Time in Nature. 
-## 🧐 About
+## 🧐 About Me
 
-- Community guy who loves being involved in communities and help them grow
-- I Used to  love creating discord bot projects using [Discord.js library](https://discord.js.org/#/) and Python (2019-2022.
-- I'm a Graduated.
-- I'm currently learning about Full Stack
-- Ask me about anything and everything
-- Contact me:
-  - Discord ID: [♚Wazeir][discord-user-id]
-  - Discord Server: [Explore With Deva][discord-server-invite-link]
+- 🔹 **Tech Enthusiast**: Skilled in IT, development, and problem-solving.
+  - 🤖 Discord Bot Developer: Enjoyed creating Discord bot projects using Discord.js and Python from 2019 to 2022.​
+
+- 🌐 **Community Enthusiast**: Passionate about engaging with communities and contributing to their growth.​
+   - 🔹 Multi-Domain Professional: Experienced in administration, leadership, and teamwork.
+
+- 🎓 **Graduated**: Successfully completed my studies and earned my degree.​
+   - 💻 Aspiring Full Stack Developer: Currently diving deep into full-stack development to broaden my skill set.​
+
+- 🌿 **Nature Lover**: Loves spending time in nature.
+  - 🎮 Gaming & Traveling: Enjoys gaming and traveling as side hobbies.
+
+​
+
+- 📬**Contact Me**:
+  - ❓ Ask Me Anything: Open to questions on any topic; always eager to share knowledge and learn from others.
+  - 💬 Discord: [Thakur][discord-user-id]​
+  - 🌍 Discord Server: [Thakur Ka Thikana][discord-server-invite-link]
 
 
 ## 🥅 2025 Goals:
@@ -29,11 +36,33 @@ Gaming & Travelling is my side hobby, Loves Spending Time in Nature.
 - Learn Full Stack
 - Learn Cyber Security
 
-## 🔗 Links
+
+## Skills and Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+## GitHub Statistics
+
+![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyonlythakur&show_icons=true&theme=radical)
+
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whyonlythakur)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/users/YOUR_USER_ID](https://discordapp.com/users/960226887580397580))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whyonlybunny)
+
+
+
+## 🔗 Links &  Badges
 
 <!-- Social badges section -->
 
-<p align="center">
 
   <a href="https://www.youtube.com/@Why_thakur?sub_confirmation=1">
     <img 
@@ -48,7 +77,15 @@ Gaming & Travelling is my side hobby, Loves Spending Time in Nature.
       title="YouTube views" 
       src="https://img.shields.io/youtube/channel/views/UCayQk2S7R7gO3DRGL-xgnLA?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge"
     />
-  </a> 
+  </a>
+<br>
+
+
+
+<a href="https://github.com/whyonlythakur">
+  <img src="https://komarev.com/ghpvc/?username=whyonlythakur&style=for-the-badge" alt="Profile Views" title="Total Profile Views" />
+</a>
+
   <a href="https://github.com/whyonlythakur?tab=repositories&sort=stargazers">
     <img 
     alt="total stars" 
@@ -62,52 +99,19 @@ Gaming & Travelling is my side hobby, Loves Spending Time in Nature.
     title="Follow me on Github" 
     src="https://custom-icon-badges.demolab.com/github/followers/thakur989?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
     />
-  </a>
-  <!-- To be fixed -->
-  <!-- <a href="https://github.com/itz-tony/Simple-View-Counter">
-    <img 
-    alt="views" 
-    title="GitHub profile views" 
-    src="https://freshidea.com/jonah/app/itz-tony-profile-views"
-    />
-  </a> -->
-</p>
-<p align="center">
+<br>
+
+
   <a href="https://discord.gg/CmQAqbJqsJ">
   <img 
     alt="discord invite banner"
     title="Discord Invite Banner"
     src="https://discord.com/api/guilds/1059590960578830386/widget.png?style=banner2"/>
   </a>
-</p>
 
 ---
 
-## 🧰 Languages and Tools
-
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<br /> 
-
-<details open>
-  <summary><h2>⚡ Github Stats</h2></summary>
-  <p>
-  <img 
-    align="center" 
-    alt="thakur989's GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=thakur989&show_icons=true&theme=radical&hide_border=true" 
-  />
-  </p>
-</details>
-
-<!-- DEFINATIONS -->
 
 [youtube]: https://youtube.com/@Why_thakur
-[discord-user-id]: https://discordapp.com/users/1087346593235210311
+[discord-user-id]: https://discordapp.com/users/960226887580397580
 [discord-server-invite-link]: https://discord.gg/HktT4vVrE5J
