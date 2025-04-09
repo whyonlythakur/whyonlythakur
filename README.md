@@ -95,14 +95,6 @@ I'm a curious individual with a strong desire to explore as much as I can, wheth
   <img src="https://komarev.com/ghpvc/?username=whyonlythakur&style=for-the-badge" alt="Profile Views" title="Total Profile Views" />
 </a>
 
-<a href="https://github.com/whyonlythakur?tab=repositories&sort=stargazers">
-  <img 
-    alt="total stars" 
-    title="Total stars on GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/stars/whyonlythakur?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
-  />
-</a>
-
 <a href="https://github.com/whyonlythakur?tab=followers">
   <img 
     alt="followers" 
