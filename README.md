@@ -35,7 +35,20 @@ I'm a curious individual with a strong desire to explore as much as I can, wheth
 - Learn more about web3
 - Learn Full Stack
 - Learn Cyber Security
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## Skills and Technologies
 
@@ -45,10 +58,6 @@ I'm a curious individual with a strong desire to explore as much as I can, wheth
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-## GitHub Statistics
-
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyonlythakur&show_icons=true&theme=radical)
 
 
 ## Connect with Me
