@@ -86,19 +86,21 @@ I'm a curious individual with a strong desire to explore as much as I can, wheth
   <img src="https://komarev.com/ghpvc/?username=whyonlythakur&style=for-the-badge" alt="Profile Views" title="Total Profile Views" />
 </a>
 
-  <a href="https://github.com/whyonlythakur?tab=repositories&sort=stargazers">
-    <img 
+<a href="https://github.com/whyonlythakur?tab=repositories&sort=stargazers">
+  <img 
     alt="total stars" 
     title="Total stars on GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/stars/thakur989?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
-    />
-  </a>
-  <a href="https://github.com/whyonlythakur?tab=followers">
-    <img 
+    src="https://custom-icon-badges.demolab.com/github/stars/whyonlythakur?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
+  />
+</a>
+
+<a href="https://github.com/whyonlythakur?tab=followers">
+  <img 
     alt="followers" 
     title="Follow me on Github" 
-    src="https://custom-icon-badges.demolab.com/github/followers/thakur989?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
-    />
+    src="https://custom-icon-badges.demolab.com/github/followers/whyonlythakur?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+  />
+</a>
 <br>
 
 
