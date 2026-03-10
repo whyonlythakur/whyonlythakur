@@ -73,14 +73,14 @@ I'm a curious individual with a strong desire to explore as much as I can, wheth
 <!-- Social badges section -->
 
 
-  <a href="https://www.youtube.com/@Why_thakur?sub_confirmation=1">
+  <a href="https://www.youtube.com/@Whyonlythakur?sub_confirmation=1">
     <img 
       alt="youtube subscribers" 
       title="Subscribe to my YouTube channel" 
       src="https://img.shields.io/youtube/channel/subscribers/UCayQk2S7R7gO3DRGL-xgnLA?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge"
     />
   </a>
-  <a href="https://www.youtube.com/@Why_thakur">
+  <a href="https://www.youtube.com/@Whyonlythakur">
     <img 
       alt="youtube views" 
       title="YouTube views" 
@@ -115,27 +115,7 @@ I'm a curious individual with a strong desire to explore as much as I can, wheth
 ---
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Snipeop1&theme=neon&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Snipeop1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Snipeop1&icon=6&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/snipeop204@okicici) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/snipeop204@okicici) 
-
-  
-
-
-
-
 
 [youtube]: https://youtube.com/@Whyonlythakur
 [discord-user-id]: https://discordapp.com/users/960226887580397580
-[discord-server-invite-link]: https://discord.gg/HktT4vVrE5J
+[discord-server-invite-link]: https://discord.gg/6NjAQuYqqq
