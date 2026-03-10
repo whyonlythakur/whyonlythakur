@@ -115,9 +115,9 @@ I'm a curious individual with a strong desire to explore as much as I can, wheth
 ---
 
 
-![](https://github-readme-stats.vercel.app/api?username=Snipeop1&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Snipeop1&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Snipeop1&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=whyonlythakur&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=whyonlythakur1&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=whyonlythakur&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
