@@ -23,13 +23,13 @@ intern, always hands-on and adaptable in a fast-evolving tech world.
   full-stack development (React, Node.js, TypeScript) and AI integrations.
 - 🔬 **Researcher** — explored the psychology of cybersecurity in "AI vs. Humans,"
   comparing human decision-making against AI-driven systems in threat detection.
-- 🎓 **B.Sc. Physics**, Raja Mahendra Pratap Singh State University.
+- 🎓 **B.Sc. Physics & Mathematics, Raja Mahendra Pratap Singh State University.
 - 🌿 **Beyond tech**: football, taekwondo, roller skating, and chasing new places.
 
 - 📬 **Contact Me**:
   - ❓ Ask Me Anything — open to questions on any topic, always up for a conversation
-  - 🌐 Portfolio: [thakur.dev](https://thakur.snapz.dev)
-  - 💬 Discord: [WhyOnlyThakur][[discord-user-id](https://discord.com/users/960226887580397580)]
+  - 🌐 Portfolio: [WhyOnlyThakur](https://thakur.snapz.dev)
+  - 💬 Discord: [WhyOnlyThakur](https://discord.com/users/960226887580397580)]
   - 🌍 Discord Server: [Sine Square](https://discord.com/invite/5WV5gffw9A) 
   
 ## 🥅 2026 Goals
@@ -37,7 +37,6 @@ intern, always hands-on and adaptable in a fast-evolving tech world.
 - Master full-stack development end-to-end
 - Advance in cybersecurity, with real-world application beyond the internship
 - Explore AI, Web3, and decentralized technologies
-- Grow Snap-Zone across Studio, Development, and Cloud
 
 <picture>
   <source
@@ -74,19 +73,17 @@ intern, always hands-on and adaptable in a fast-evolving tech world.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whyonlythakur)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/960226887580397580)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whyonlybunny)
-[![Portfolio](https://img.shields.io/badge/Portfolio-D9A24B?style=for-the-badge&logo=vercel&logoColor=black)](https://thakur.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whyonlythakur)
+[![Youtube]([https://img.shields.io/badge/Portfolio-D9A24B?style=for-the-badge&logo=vercel&logoColor=black](https://img.shields.io/youtube/channel/views/UCayQk2S7R7gO3DRGL-xgnLA?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge))]([https://thakur.snapz.dev](https://www.youtube.com/@Whyonlythakur))
+[![Portfolio](https://img.shields.io/badge/Portfolio-D9A24B?style=for-the-badge&logo=vercel&logoColor=black)](https://thakur.snapz.dev)
+
+
 
 ## 🔗 Links & Badges
 
 <!-- Social badges section -->
 
-<a href="https://www.youtube.com/@Whyonlythakur?sub_confirmation=1">
-  <img
-    alt="youtube subscribers"
-    title="Subscribe to my YouTube channel"
-    src="https://img.shields.io/youtube/channel/subscribers/UCayQk2S7R7gO3DRGL-xgnLA?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge"
-  />
+
 </a>
 <a href="https://www.youtube.com/@Whyonlythakur">
   <img
@@ -121,4 +118,4 @@ intern, always hands-on and adaptable in a fast-evolving tech world.
 
 [youtube]: https://youtube.com/@Whyonlythakur
 [discord-user-id]: https://discordapp.com/users/960226887580397580
-[discord-server-invite-link]: https://discord.gg/6NjAQuYqqq
+
