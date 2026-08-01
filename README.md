@@ -4,7 +4,7 @@
 
 <!-- Intro -->
 
-**`🚀 Founder @Snap-Zone | 🛡️ Cyber Cell Intern @Haryana Police | 📊 Data Analyst | 🌍 Community Builder | 🌟 Perpetual Learner`**
+**`🚀 Founder @Sine Square (Sin²) | 🛡️ Cyber Cell Intern @Haryana Police | 📊 Data Analyst | 🌍 Community Builder | 🌟 Perpetual Learner`**
 
 "Knowledge is free — you just have to learn how to grab it." Driven by curiosity, growth,
 and the thrill of mastering new domains. Founder, builder, and occasional cybercrime-forensics
@@ -12,8 +12,6 @@ intern, always hands-on and adaptable in a fast-evolving tech world.
 
 ## 🧐 About Me
 
-- 🚀 **Founder, Snap-Zone** — building SnapZ Studio (empower creators), SnapZ Development
-  (educate developers), and SnapZ Cloud (enable builders).
 - 🛡️ **Cyber Cell Intern, Haryana Police (CyberCrime ACP Office, Gurugram)** — hands-on
   experience in cybercrime investigation, digital forensics, and incident response.
 - 📊 **Data Analyst** — SQL, Python, Power BI, and Excel, with real-world experience
