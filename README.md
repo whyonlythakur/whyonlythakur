@@ -28,13 +28,13 @@ intern, always hands-on and adaptable in a fast-evolving tech world.
 
 - 📬 **Contact Me**:
   - ❓ Ask Me Anything — open to questions on any topic, always up for a conversation
-  - 🌐 Portfolio: [thakur.dev](https://thakur.dev)
-  - 💬 Discord: [Thakur][discord-user-id]
-  - 🌍 Discord Server: [Thakur Ka Thikana][discord-server-invite-link] *(confirm this is current — LinkedIn lists "Snap-Zone")*
-
+  - 🌐 Portfolio: [thakur.dev](https://thakur.snapz.dev)
+  - 💬 Discord: [WhyOnlyThakur][[discord-user-id](https://discord.com/users/960226887580397580)]
+  - 🌍 Discord Server: [Sine Square](https://discord.com/invite/5WV5gffw9A) 
+  
 ## 🥅 2026 Goals
 
-- Master full-stack development end to end
+- Master full-stack development end-to-end
 - Advance in cybersecurity, with real-world application beyond the internship
 - Explore AI, Web3, and decentralized technologies
 - Grow Snap-Zone across Studio, Development, and Cloud
