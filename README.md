@@ -29,7 +29,7 @@ intern, always hands-on and adaptable in a fast-evolving tech world.
 - 📬 **Contact Me**:
   - ❓ Ask Me Anything — open to questions on any topic, always up for a conversation
   - 🌐 Portfolio: [WhyOnlyThakur](https://thakur.snapz.dev)
-  - 💬 Discord: [WhyOnlyThakur](https://discord.com/users/960226887580397580)]
+  - 💬 Discord: [WhyOnlyThakur](https://discord.com/users/960226887580397580)
   - 🌍 Discord Server: [Sine Square](https://discord.com/invite/5WV5gffw9A) 
   
 ## 🥅 2026 Goals
@@ -74,48 +74,6 @@ intern, always hands-on and adaptable in a fast-evolving tech world.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whyonlythakur)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/960226887580397580)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whyonlythakur)
-[![Youtube]([https://img.shields.io/badge/Portfolio-D9A24B?style=for-the-badge&logo=vercel&logoColor=black](https://img.shields.io/youtube/channel/views/UCayQk2S7R7gO3DRGL-xgnLA?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge))]([https://thakur.snapz.dev](https://www.youtube.com/@Whyonlythakur))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Whyonlythakur)
 [![Portfolio](https://img.shields.io/badge/Portfolio-D9A24B?style=for-the-badge&logo=vercel&logoColor=black)](https://thakur.snapz.dev)
-
-
-
-## 🔗 Links & Badges
-
-<!-- Social badges section -->
-
-
-</a>
-<a href="https://www.youtube.com/@Whyonlythakur">
-  <img
-    alt="youtube views"
-    title="YouTube views"
-    src="https://img.shields.io/youtube/channel/views/UCayQk2S7R7gO3DRGL-xgnLA?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge"
-  />
-</a>
-<br>
-
-<a href="https://github.com/whyonlythakur">
-  <img src="https://komarev.com/ghpvc/?username=whyonlythakur&style=for-the-badge" alt="Profile Views" title="Total Profile Views" />
-</a>
-
-<a href="https://github.com/whyonlythakur?tab=followers">
-  <img
-    alt="followers"
-    title="Follow me on Github"
-    src="https://custom-icon-badges.demolab.com/github/followers/whyonlythakur?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
-  />
-</a>
-<br>
-
-<a href="https://discord.gg/CmQAqbJqsJ">
-  <img
-    alt="discord invite banner"
-    title="Discord Invite Banner"
-    src="https://discord.com/api/guilds/1059590960578830386/widget.png?style=banner2"/>
-</a>
-
----
-
-[youtube]: https://youtube.com/@Whyonlythakur
-[discord-user-id]: https://discordapp.com/users/960226887580397580
 
