@@ -4,11 +4,31 @@
 
 <!-- Intro -->
 
-**`🚀 Founder @Sine Square (Sin²) | 🛡️ Cyber Cell Intern @Haryana Police | 📊 Data Analyst | 🌍 Community Builder | 🌟 Perpetual Learner`**
+<p align="center">
 
-"Knowledge is free — you just have to learn how to grab it." Driven by curiosity, growth,
-and the thrill of mastering new domains. Founder, builder, and occasional cybercrime-forensics
-intern, always hands-on and adaptable in a fast-evolving tech world.
+<img
+src="YOUR_PROFILE_IMAGE_URL"
+width="180"
+style="border-radius:50%;"
+/>
+
+<h1 align="center">Arpit Singh (Thakur)</h1>
+
+<p align="center">
+
+🚀 Founder @ <b>Sine Square (Sin²)</b> •
+🛡️ Cyber Cell Intern •
+📊 Data Analyst •
+🌍 Community Builder
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=WhyOnlyThakur&label=Profile+Views&color=blue&style=for-the-badge"/>
+</p>
+
+</p>
+
 
 ## 🧐 About Me
 
