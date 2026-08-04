@@ -4,36 +4,6 @@
   <img src="./Banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Arpit Singh (Thakur)</h1>
-
-<p align="center">
-
-🚀 <b>Founder @ Sine Square (Sin²)</b> •
-🛡️ Cyber Cell Intern •
-📊 Data Analyst •
-🌍 Community Builder •
-🤖 Full-Stack Developer
-
-</p>
-
-<p align="center">
-  <i>"Knowledge is free — you just have to learn how to grab it."</i>
-</p>
-
-<p align="center">
-  <a href="https://thakur.snapz.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/whyonlythakur">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/960226887580397580">
-    <img src="https://img.shields.io/badge/Discord-WhyOnlyThakur-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
----
-
 # 🧐 About Me
 
 - 🛡️ **Cyber Cell Intern, Haryana Police (CyberCrime ACP Office, Gurugram)** — Hands-on experience in cybercrime investigation, digital forensics, and incident response.
