@@ -24,7 +24,7 @@ style="border-radius:50%;"
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=WhyOnlyThakur&label=Profile+Views&color=blue&style=for-the-badge"/>
+<img src="https://media.discordapp.net/attachments/1318291509824589854/1534180601530417242/file_0000000057bc82088582313d3c801517.png?ex=6a733087&is=6a71df07&hm=922663f4cdfb511c6fd11cdc728901fbe6be7cce7de2c6fe1a67392ec3826e99&=&format=webp&quality=lossless&width=1536&height=865"/>
 </p>
 
 </p>
